@@ -3,4 +3,4 @@ software-carpentry
 
 testing 
 
-learning to use git at software carpentry 07-28-14
+learning to use git at Stanford Software Carpentry 07-28-14
