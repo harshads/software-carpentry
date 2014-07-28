@@ -1,4 +1,4 @@
 for datafile in *.txt
 do
-    bash goostats $datafile >> output1.txt
+    bash goostats $datafile | head -10 >> output10.txt
 done
